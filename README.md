@@ -46,18 +46,3 @@ GenLayer documentation
 
 GenLayer community resources
 
-Sau đó làm 3 bước
-
-Cuộn xuống cuối trang GitHub.
-
-Ở ô Commit changes, để mặc định rồi bấm Commit changes.
-
-Quay lại trang repository, bạn sẽ thấy README đã hiện đầy đủ.
-
-URL repo của bạn hiện tại là:
-
-https://github.com/moonng12/genlayer-ai-contribution
-
-Sau khi README đã lưu, dùng chính URL này làm Evidence ở ô số 3 trong GenLayer Portal.
-
-Nếu bạn gửi ảnh màn hình sau khi bấm ✏️, mình sẽ chỉ chính xác từng nút cần bấm tiếp theo để hoàn thành repo.
