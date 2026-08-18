@@ -45,4 +45,6 @@ GenLayer official website
 GenLayer documentation
 
 GenLayer community resources
-
+## How to Run
+1. Install GenLayer SDK: `pip install genlayer-sdk`
+2. Run code: `genlayer sim run contract.py`
